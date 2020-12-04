@@ -1,0 +1,16 @@
+{
+  "name": "ExpoBeacons",
+  "displayName": "ExpoBeacons",
+  "expo": {
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover"
+    },
+    "name": "ExpoBeacons",
+    "slug": "ExpoBeacons",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
